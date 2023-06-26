@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1-Java.iml" filepath="$PROJECT_DIR$/1-Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Cognito-Android-Studio.iml" filepath="$PROJECT_DIR$/.idea/Cognito-Android-Studio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Cognito-Android-Studio.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Cognito-Android-Studio.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Cognito-Android-Studio.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Cognito-Android-Studio.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Cognito-Android-Studio.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Cognito-Android-Studio.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Cognito-Android-Studio.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Cognito-Android-Studio.app.unitTest.iml" />
     </modules>
   </component>
 </project>
